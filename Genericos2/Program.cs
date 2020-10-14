@@ -6,16 +6,32 @@ namespace Genericos2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numero = 3;
+            Console.WriteLine("Clase generica de objetos");
 
-            AlmacenObjetos<Empleados> miAlmacen = new AlmacenObjetos<Empleados>(3);
+            AlmacenObjetos<Empleados> miAlmacen = new AlmacenObjetos<Empleados>(numero);
 
-            miAlmacen.agregaElemento(new Empleados(302));
-            miAlmacen.agregaElemento(new Empleados(3300));
-            miAlmacen.agregaElemento(new Empleados(2330));
+            miAlmacen.agregaElemento(new Empleados(302,"Tati"));
+            miAlmacen.agregaElemento(new Empleados(3300,"Misifu"));
+            miAlmacen.agregaElemento(new Empleados(2330,"Alita"));
 
             Empleados salarioEmpleado = miAlmacen.getElemento(2);
             Console.WriteLine(salarioEmpleado.getSalario());
+
+            Console.WriteLine(salarioEmpleado.getNom());
+
+            Console.WriteLine("bucle for para ver todos los objetos del array");
+            miAlmacen.mostrarTodos();
+
+            //
+            Console.WriteLine("bucle par aver contenido del objeto empleados ");
+
+            for(int i =0; i<numero; i++)
+            {
+                Empleados empleado = miAlmacen.getElemento(i);
+                Console.WriteLine(empleado.getNom());
+                Console.WriteLine(empleado.getSalario());
+            }
 
         }
     }
@@ -42,6 +58,15 @@ namespace Genericos2
             return arrObjeto[i];
         }
 
+        public void mostrarTodos()
+        {
+            for (int i = 0; i < arrObjeto.Length; i++){
+
+                Console.WriteLine(arrObjeto[i]);
+            }
+
+        }
+
         private int z;// num de elementos del array
         private T Obj;// objeto que sera almacenado en eel array
         private int i = 0;// contador del array
@@ -51,10 +76,10 @@ namespace Genericos2
 
     class Empleados
     {
-        public Empleados(double salario)
+        public Empleados(double salario, string nom)
         {
             this.salario = salario;
-           // this.nom = nom;
+            this.nom = nom;
 
         }
         
