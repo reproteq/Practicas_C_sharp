@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\Destructor\obj\Debug\netcoreapp3.1\Destructor.csprojAssemblyReference.cache
+C:\Users\w10\source\test\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfo.cs
+C:\Users\w10\source\test\Destructor\obj\Debug\netcoreapp3.1\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\Destructor\bin\Debug\netcoreapp3.1\Destructor.exe
+C:\Users\w10\source\test\Destructor\bin\Debug\netcoreapp3.1\Destructor.deps.json
+C:\Users\w10\source\test\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.json
+C:\Users\w10\source\test\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.dev.json
+C:\Users\w10\source\test\Destructor\bin\Debug\netcoreapp3.1\Destructor.dll
+C:\Users\w10\source\test\Destructor\bin\Debug\netcoreapp3.1\Destructor.pdb
+C:\Users\w10\source\test\Destructor\obj\Debug\netcoreapp3.1\Destructor.dll
+C:\Users\w10\source\test\Destructor\obj\Debug\netcoreapp3.1\Destructor.pdb
+C:\Users\w10\source\test\Destructor\obj\Debug\netcoreapp3.1\Destructor.genruntimeconfig.cache

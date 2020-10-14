@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.exe
+C:\Users\w10\source\test\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.deps.json
+C:\Users\w10\source\test\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.runtimeconfig.json
+C:\Users\w10\source\test\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.runtimeconfig.dev.json
+C:\Users\w10\source\test\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.dll
+C:\Users\w10\source\test\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.pdb
+C:\Users\w10\source\test\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.csprojAssemblyReference.cache
+C:\Users\w10\source\test\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.AssemblyInfo.cs
+C:\Users\w10\source\test\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.dll
+C:\Users\w10\source\test\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.pdb
+C:\Users\w10\source\test\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\w10\source\test\test-xalm\bin\Debug\test-xalm.exe.config
+C:\Users\w10\source\test\test-xalm\bin\Debug\test-xalm.exe
+C:\Users\w10\source\test\test-xalm\bin\Debug\test-xalm.pdb
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm.csprojAssemblyReference.cache
+C:\Users\w10\source\test\test-xalm\obj\Debug\MainWindow.g.cs
+C:\Users\w10\source\test\test-xalm\obj\Debug\App.g.cs
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm_MarkupCompile.cache
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm_MarkupCompile.lref
+C:\Users\w10\source\test\test-xalm\obj\Debug\MainWindow.baml
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm.g.resources
+C:\Users\w10\source\test\test-xalm\obj\Debug\test_xalm.Properties.Resources.resources
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm.csproj.GenerateResource.cache
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm.exe
+C:\Users\w10\source\test\test-xalm\obj\Debug\test-xalm.pdb

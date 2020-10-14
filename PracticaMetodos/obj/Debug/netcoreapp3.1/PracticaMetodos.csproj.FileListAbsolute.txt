@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.csprojAssemblyReference.cache
+C:\Users\w10\source\test\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.AssemblyInfo.cs
+C:\Users\w10\source\test\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.exe
+C:\Users\w10\source\test\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.deps.json
+C:\Users\w10\source\test\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.runtimeconfig.json
+C:\Users\w10\source\test\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.runtimeconfig.dev.json
+C:\Users\w10\source\test\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.dll
+C:\Users\w10\source\test\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.pdb
+C:\Users\w10\source\test\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.dll
+C:\Users\w10\source\test\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.pdb
+C:\Users\w10\source\test\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.genruntimeconfig.cache

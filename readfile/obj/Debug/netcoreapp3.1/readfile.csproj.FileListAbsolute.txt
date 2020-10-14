@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\readfile\bin\Debug\netcoreapp3.1\readfile.exe
+C:\Users\w10\source\test\readfile\bin\Debug\netcoreapp3.1\readfile.deps.json
+C:\Users\w10\source\test\readfile\bin\Debug\netcoreapp3.1\readfile.runtimeconfig.json
+C:\Users\w10\source\test\readfile\bin\Debug\netcoreapp3.1\readfile.runtimeconfig.dev.json
+C:\Users\w10\source\test\readfile\bin\Debug\netcoreapp3.1\readfile.dll
+C:\Users\w10\source\test\readfile\bin\Debug\netcoreapp3.1\readfile.pdb
+C:\Users\w10\source\test\readfile\obj\Debug\netcoreapp3.1\readfile.csprojAssemblyReference.cache
+C:\Users\w10\source\test\readfile\obj\Debug\netcoreapp3.1\readfile.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\readfile\obj\Debug\netcoreapp3.1\readfile.AssemblyInfo.cs
+C:\Users\w10\source\test\readfile\obj\Debug\netcoreapp3.1\readfile.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\readfile\obj\Debug\netcoreapp3.1\readfile.dll
+C:\Users\w10\source\test\readfile\obj\Debug\netcoreapp3.1\readfile.pdb
+C:\Users\w10\source\test\readfile\obj\Debug\netcoreapp3.1\readfile.genruntimeconfig.cache

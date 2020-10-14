@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\Calendario\bin\Debug\netcoreapp3.1\Calendario.exe
+C:\Users\w10\source\test\Calendario\bin\Debug\netcoreapp3.1\Calendario.deps.json
+C:\Users\w10\source\test\Calendario\bin\Debug\netcoreapp3.1\Calendario.runtimeconfig.json
+C:\Users\w10\source\test\Calendario\bin\Debug\netcoreapp3.1\Calendario.runtimeconfig.dev.json
+C:\Users\w10\source\test\Calendario\bin\Debug\netcoreapp3.1\Calendario.dll
+C:\Users\w10\source\test\Calendario\bin\Debug\netcoreapp3.1\Calendario.pdb
+C:\Users\w10\source\test\Calendario\obj\Debug\netcoreapp3.1\Calendario.csprojAssemblyReference.cache
+C:\Users\w10\source\test\Calendario\obj\Debug\netcoreapp3.1\Calendario.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\Calendario\obj\Debug\netcoreapp3.1\Calendario.AssemblyInfo.cs
+C:\Users\w10\source\test\Calendario\obj\Debug\netcoreapp3.1\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\Calendario\obj\Debug\netcoreapp3.1\Calendario.dll
+C:\Users\w10\source\test\Calendario\obj\Debug\netcoreapp3.1\Calendario.pdb
+C:\Users\w10\source\test\Calendario\obj\Debug\netcoreapp3.1\Calendario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\practica-class-virtual\obj\Debug\netcoreapp3.1\practica-class-virtual.csprojAssemblyReference.cache
+C:\Users\w10\source\test\practica-class-virtual\obj\Debug\netcoreapp3.1\practica-class-virtual.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\practica-class-virtual\obj\Debug\netcoreapp3.1\practica-class-virtual.AssemblyInfo.cs
+C:\Users\w10\source\test\practica-class-virtual\obj\Debug\netcoreapp3.1\practica-class-virtual.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\practica-class-virtual\bin\Debug\netcoreapp3.1\practica-class-virtual.exe
+C:\Users\w10\source\test\practica-class-virtual\bin\Debug\netcoreapp3.1\practica-class-virtual.deps.json
+C:\Users\w10\source\test\practica-class-virtual\bin\Debug\netcoreapp3.1\practica-class-virtual.runtimeconfig.json
+C:\Users\w10\source\test\practica-class-virtual\bin\Debug\netcoreapp3.1\practica-class-virtual.runtimeconfig.dev.json
+C:\Users\w10\source\test\practica-class-virtual\bin\Debug\netcoreapp3.1\practica-class-virtual.dll
+C:\Users\w10\source\test\practica-class-virtual\bin\Debug\netcoreapp3.1\practica-class-virtual.pdb
+C:\Users\w10\source\test\practica-class-virtual\obj\Debug\netcoreapp3.1\practica-class-virtual.dll
+C:\Users\w10\source\test\practica-class-virtual\obj\Debug\netcoreapp3.1\practica-class-virtual.pdb
+C:\Users\w10\source\test\practica-class-virtual\obj\Debug\netcoreapp3.1\practica-class-virtual.genruntimeconfig.cache

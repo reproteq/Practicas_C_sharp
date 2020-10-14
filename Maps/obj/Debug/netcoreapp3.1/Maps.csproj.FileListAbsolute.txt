@@ -1,0 +1,12 @@
+C:\Users\w10\source\test\Maps\bin\Debug\netcoreapp3.1\Maps.exe
+C:\Users\w10\source\test\Maps\bin\Debug\netcoreapp3.1\Maps.deps.json
+C:\Users\w10\source\test\Maps\bin\Debug\netcoreapp3.1\Maps.runtimeconfig.json
+C:\Users\w10\source\test\Maps\bin\Debug\netcoreapp3.1\Maps.runtimeconfig.dev.json
+C:\Users\w10\source\test\Maps\bin\Debug\netcoreapp3.1\Maps.dll
+C:\Users\w10\source\test\Maps\bin\Debug\netcoreapp3.1\Maps.pdb
+C:\Users\w10\source\test\Maps\obj\Debug\netcoreapp3.1\Maps.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\Maps\obj\Debug\netcoreapp3.1\Maps.AssemblyInfo.cs
+C:\Users\w10\source\test\Maps\obj\Debug\netcoreapp3.1\Maps.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\Maps\obj\Debug\netcoreapp3.1\Maps.dll
+C:\Users\w10\source\test\Maps\obj\Debug\netcoreapp3.1\Maps.pdb
+C:\Users\w10\source\test\Maps\obj\Debug\netcoreapp3.1\Maps.genruntimeconfig.cache

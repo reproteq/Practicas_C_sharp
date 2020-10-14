@@ -1,0 +1,28 @@
+﻿<Window x:Class="test_xalm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_xalm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="MainWindow1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="193*"/>
+            <ColumnDefinition Width="599*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="tb" Width="140" Height="30" Margin="22,33,31,356"></TextBox>
+        <ListBox Name="lb" SelectionChanged="PrintText" SelectionMode="Single" Margin="22,99,31,253">
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 2</ListBoxItem>
+            <ListBoxItem>Item 3</ListBoxItem>
+            <ListBoxItem>Item 4</ListBoxItem>
+            <ListBoxItem>Item 5</ListBoxItem>
+            <ListBoxItem>Item 6</ListBoxItem>
+            <ListBoxItem>Item 7</ListBoxItem>
+            <ListBoxItem>Item 8</ListBoxItem>
+            <ListBoxItem>Item 9</ListBoxItem>
+            <ListBoxItem>Item 10</ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>

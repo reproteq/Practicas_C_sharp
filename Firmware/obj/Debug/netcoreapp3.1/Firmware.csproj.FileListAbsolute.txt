@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\Firmware\bin\Debug\netcoreapp3.1\Firmware.exe
+C:\Users\w10\source\test\Firmware\bin\Debug\netcoreapp3.1\Firmware.deps.json
+C:\Users\w10\source\test\Firmware\bin\Debug\netcoreapp3.1\Firmware.runtimeconfig.json
+C:\Users\w10\source\test\Firmware\bin\Debug\netcoreapp3.1\Firmware.runtimeconfig.dev.json
+C:\Users\w10\source\test\Firmware\bin\Debug\netcoreapp3.1\Firmware.dll
+C:\Users\w10\source\test\Firmware\bin\Debug\netcoreapp3.1\Firmware.pdb
+C:\Users\w10\source\test\Firmware\obj\Debug\netcoreapp3.1\Firmware.csprojAssemblyReference.cache
+C:\Users\w10\source\test\Firmware\obj\Debug\netcoreapp3.1\Firmware.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\Firmware\obj\Debug\netcoreapp3.1\Firmware.AssemblyInfo.cs
+C:\Users\w10\source\test\Firmware\obj\Debug\netcoreapp3.1\Firmware.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\Firmware\obj\Debug\netcoreapp3.1\Firmware.dll
+C:\Users\w10\source\test\Firmware\obj\Debug\netcoreapp3.1\Firmware.pdb
+C:\Users\w10\source\test\Firmware\obj\Debug\netcoreapp3.1\Firmware.genruntimeconfig.cache

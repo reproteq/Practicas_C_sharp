@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\PPO\bin\Debug\netcoreapp3.1\PPO.exe
+C:\Users\w10\source\test\PPO\bin\Debug\netcoreapp3.1\PPO.deps.json
+C:\Users\w10\source\test\PPO\bin\Debug\netcoreapp3.1\PPO.runtimeconfig.json
+C:\Users\w10\source\test\PPO\bin\Debug\netcoreapp3.1\PPO.runtimeconfig.dev.json
+C:\Users\w10\source\test\PPO\bin\Debug\netcoreapp3.1\PPO.dll
+C:\Users\w10\source\test\PPO\bin\Debug\netcoreapp3.1\PPO.pdb
+C:\Users\w10\source\test\PPO\obj\Debug\netcoreapp3.1\PPO.csprojAssemblyReference.cache
+C:\Users\w10\source\test\PPO\obj\Debug\netcoreapp3.1\PPO.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\PPO\obj\Debug\netcoreapp3.1\PPO.AssemblyInfo.cs
+C:\Users\w10\source\test\PPO\obj\Debug\netcoreapp3.1\PPO.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\PPO\obj\Debug\netcoreapp3.1\PPO.dll
+C:\Users\w10\source\test\PPO\obj\Debug\netcoreapp3.1\PPO.pdb
+C:\Users\w10\source\test\PPO\obj\Debug\netcoreapp3.1\PPO.genruntimeconfig.cache

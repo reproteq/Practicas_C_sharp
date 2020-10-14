@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\Structs_Y_Enum\obj\Debug\netcoreapp3.1\Structs_Y_Enum.csprojAssemblyReference.cache
+C:\Users\w10\source\test\Structs_Y_Enum\obj\Debug\netcoreapp3.1\Structs_Y_Enum.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\Structs_Y_Enum\obj\Debug\netcoreapp3.1\Structs_Y_Enum.AssemblyInfo.cs
+C:\Users\w10\source\test\Structs_Y_Enum\obj\Debug\netcoreapp3.1\Structs_Y_Enum.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\Structs_Y_Enum\bin\Debug\netcoreapp3.1\Structs_Y_Enum.exe
+C:\Users\w10\source\test\Structs_Y_Enum\bin\Debug\netcoreapp3.1\Structs_Y_Enum.deps.json
+C:\Users\w10\source\test\Structs_Y_Enum\bin\Debug\netcoreapp3.1\Structs_Y_Enum.runtimeconfig.json
+C:\Users\w10\source\test\Structs_Y_Enum\bin\Debug\netcoreapp3.1\Structs_Y_Enum.runtimeconfig.dev.json
+C:\Users\w10\source\test\Structs_Y_Enum\bin\Debug\netcoreapp3.1\Structs_Y_Enum.dll
+C:\Users\w10\source\test\Structs_Y_Enum\bin\Debug\netcoreapp3.1\Structs_Y_Enum.pdb
+C:\Users\w10\source\test\Structs_Y_Enum\obj\Debug\netcoreapp3.1\Structs_Y_Enum.dll
+C:\Users\w10\source\test\Structs_Y_Enum\obj\Debug\netcoreapp3.1\Structs_Y_Enum.pdb
+C:\Users\w10\source\test\Structs_Y_Enum\obj\Debug\netcoreapp3.1\Structs_Y_Enum.genruntimeconfig.cache

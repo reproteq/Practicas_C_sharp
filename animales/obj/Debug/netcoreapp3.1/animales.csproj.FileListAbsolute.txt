@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\animales\bin\Debug\netcoreapp3.1\animales.exe
+C:\Users\w10\source\test\animales\bin\Debug\netcoreapp3.1\animales.deps.json
+C:\Users\w10\source\test\animales\bin\Debug\netcoreapp3.1\animales.runtimeconfig.json
+C:\Users\w10\source\test\animales\bin\Debug\netcoreapp3.1\animales.runtimeconfig.dev.json
+C:\Users\w10\source\test\animales\bin\Debug\netcoreapp3.1\animales.dll
+C:\Users\w10\source\test\animales\bin\Debug\netcoreapp3.1\animales.pdb
+C:\Users\w10\source\test\animales\obj\Debug\netcoreapp3.1\animales.csprojAssemblyReference.cache
+C:\Users\w10\source\test\animales\obj\Debug\netcoreapp3.1\animales.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\animales\obj\Debug\netcoreapp3.1\animales.AssemblyInfo.cs
+C:\Users\w10\source\test\animales\obj\Debug\netcoreapp3.1\animales.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\animales\obj\Debug\netcoreapp3.1\animales.dll
+C:\Users\w10\source\test\animales\obj\Debug\netcoreapp3.1\animales.pdb
+C:\Users\w10\source\test\animales\obj\Debug\netcoreapp3.1\animales.genruntimeconfig.cache

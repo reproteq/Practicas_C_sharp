@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.exe
+C:\Users\w10\source\test\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.deps.json
+C:\Users\w10\source\test\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.runtimeconfig.json
+C:\Users\w10\source\test\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.runtimeconfig.dev.json
+C:\Users\w10\source\test\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.dll
+C:\Users\w10\source\test\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.pdb
+C:\Users\w10\source\test\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.csprojAssemblyReference.cache
+C:\Users\w10\source\test\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.AssemblyInfo.cs
+C:\Users\w10\source\test\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.dll
+C:\Users\w10\source\test\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.pdb
+C:\Users\w10\source\test\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.genruntimeconfig.cache

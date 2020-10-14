@@ -1,0 +1,13 @@
+C:\Users\w10\source\test\Genericos2\bin\Debug\netcoreapp3.1\Genericos2.exe
+C:\Users\w10\source\test\Genericos2\bin\Debug\netcoreapp3.1\Genericos2.deps.json
+C:\Users\w10\source\test\Genericos2\bin\Debug\netcoreapp3.1\Genericos2.runtimeconfig.json
+C:\Users\w10\source\test\Genericos2\bin\Debug\netcoreapp3.1\Genericos2.runtimeconfig.dev.json
+C:\Users\w10\source\test\Genericos2\bin\Debug\netcoreapp3.1\Genericos2.dll
+C:\Users\w10\source\test\Genericos2\bin\Debug\netcoreapp3.1\Genericos2.pdb
+C:\Users\w10\source\test\Genericos2\obj\Debug\netcoreapp3.1\Genericos2.csprojAssemblyReference.cache
+C:\Users\w10\source\test\Genericos2\obj\Debug\netcoreapp3.1\Genericos2.AssemblyInfoInputs.cache
+C:\Users\w10\source\test\Genericos2\obj\Debug\netcoreapp3.1\Genericos2.AssemblyInfo.cs
+C:\Users\w10\source\test\Genericos2\obj\Debug\netcoreapp3.1\Genericos2.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\test\Genericos2\obj\Debug\netcoreapp3.1\Genericos2.dll
+C:\Users\w10\source\test\Genericos2\obj\Debug\netcoreapp3.1\Genericos2.pdb
+C:\Users\w10\source\test\Genericos2\obj\Debug\netcoreapp3.1\Genericos2.genruntimeconfig.cache
