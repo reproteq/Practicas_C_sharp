@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\bin\Debug\netcoreapp3.1\Class_Obj_Array.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\bin\Debug\netcoreapp3.1\Class_Obj_Array.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\bin\Debug\netcoreapp3.1\Class_Obj_Array.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\bin\Debug\netcoreapp3.1\Class_Obj_Array.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\bin\Debug\netcoreapp3.1\Class_Obj_Array.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\bin\Debug\netcoreapp3.1\Class_Obj_Array.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\obj\Debug\netcoreapp3.1\Class_Obj_Array.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\obj\Debug\netcoreapp3.1\Class_Obj_Array.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\obj\Debug\netcoreapp3.1\Class_Obj_Array.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\obj\Debug\netcoreapp3.1\Class_Obj_Array.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\obj\Debug\netcoreapp3.1\Class_Obj_Array.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\obj\Debug\netcoreapp3.1\Class_Obj_Array.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Class_Obj_Array\obj\Debug\netcoreapp3.1\Class_Obj_Array.genruntimeconfig.cache
