@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\bin\Debug\netcoreapp3.1\GenericosRestricciones.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\bin\Debug\netcoreapp3.1\GenericosRestricciones.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\bin\Debug\netcoreapp3.1\GenericosRestricciones.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\bin\Debug\netcoreapp3.1\GenericosRestricciones.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\bin\Debug\netcoreapp3.1\GenericosRestricciones.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\bin\Debug\netcoreapp3.1\GenericosRestricciones.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\obj\Debug\netcoreapp3.1\GenericosRestricciones.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\obj\Debug\netcoreapp3.1\GenericosRestricciones.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\obj\Debug\netcoreapp3.1\GenericosRestricciones.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\obj\Debug\netcoreapp3.1\GenericosRestricciones.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\obj\Debug\netcoreapp3.1\GenericosRestricciones.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\obj\Debug\netcoreapp3.1\GenericosRestricciones.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\GenericosRestricciones\obj\Debug\netcoreapp3.1\GenericosRestricciones.genruntimeconfig.cache
