@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.genruntimeconfig.cache
