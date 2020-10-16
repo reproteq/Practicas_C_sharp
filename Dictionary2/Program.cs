@@ -28,7 +28,26 @@ namespace Dictionary2
                 Console.WriteLine("Nom:" +  persona.Key + "  Edad:"+ persona.Value);
             }
 
+            Console.WriteLine(":::::::::::::::::::array de diccionarios y array de objetos persona:::::::::::::");
 
+
+            int dics = 5;
+            Dictionary<string, int>[] matrix = new Dictionary<string, int>[dics];
+
+            for(int i=0; i< dics; i++)
+            {
+                matrix[i] = new Dictionary<string, int>();
+
+
+                Personas miPersona = new Personas(arrNom[i], arrEdad[i]);
+                matrix[i].Add(arrNom[i],arrEdad[i]);
+            }
+
+
+            for (int i = 0; i < matrix.Length; i++)
+            {
+
+            }
 
         }
     }
