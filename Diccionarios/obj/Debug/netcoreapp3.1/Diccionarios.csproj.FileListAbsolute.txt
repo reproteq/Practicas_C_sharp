@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.genruntimeconfig.cache

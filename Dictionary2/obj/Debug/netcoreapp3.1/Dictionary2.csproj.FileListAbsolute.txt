@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\bin\Debug\netcoreapp3.1\Dictionary2.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\bin\Debug\netcoreapp3.1\Dictionary2.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\bin\Debug\netcoreapp3.1\Dictionary2.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\bin\Debug\netcoreapp3.1\Dictionary2.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\bin\Debug\netcoreapp3.1\Dictionary2.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\bin\Debug\netcoreapp3.1\Dictionary2.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\obj\Debug\netcoreapp3.1\Dictionary2.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\obj\Debug\netcoreapp3.1\Dictionary2.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\obj\Debug\netcoreapp3.1\Dictionary2.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\obj\Debug\netcoreapp3.1\Dictionary2.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\obj\Debug\netcoreapp3.1\Dictionary2.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\obj\Debug\netcoreapp3.1\Dictionary2.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Dictionary2\obj\Debug\netcoreapp3.1\Dictionary2.genruntimeconfig.cache
