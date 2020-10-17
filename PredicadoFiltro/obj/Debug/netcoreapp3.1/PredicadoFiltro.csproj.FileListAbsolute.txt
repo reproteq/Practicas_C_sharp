@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\bin\Debug\netcoreapp3.1\PredicadoFiltro.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\bin\Debug\netcoreapp3.1\PredicadoFiltro.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\bin\Debug\netcoreapp3.1\PredicadoFiltro.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\bin\Debug\netcoreapp3.1\PredicadoFiltro.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\bin\Debug\netcoreapp3.1\PredicadoFiltro.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\bin\Debug\netcoreapp3.1\PredicadoFiltro.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\obj\Debug\netcoreapp3.1\PredicadoFiltro.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\obj\Debug\netcoreapp3.1\PredicadoFiltro.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\obj\Debug\netcoreapp3.1\PredicadoFiltro.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\obj\Debug\netcoreapp3.1\PredicadoFiltro.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\obj\Debug\netcoreapp3.1\PredicadoFiltro.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\obj\Debug\netcoreapp3.1\PredicadoFiltro.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\PredicadoFiltro\obj\Debug\netcoreapp3.1\PredicadoFiltro.genruntimeconfig.cache
