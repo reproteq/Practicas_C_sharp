@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\bin\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadosPredicadosLambdas\obj\Debug\netcoreapp3.1\DelegadosPredicadosLambdas.genruntimeconfig.cache

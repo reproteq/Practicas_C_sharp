@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\obj\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\obj\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\obj\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\obj\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\bin\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\bin\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\bin\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\bin\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\bin\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\bin\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\obj\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\obj\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\DelegadoPredicadoLambda3\obj\Debug\netcoreapp3.1\DelegadoPredicadoLambda3.genruntimeconfig.cache
