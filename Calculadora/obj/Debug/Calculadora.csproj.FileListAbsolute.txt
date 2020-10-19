@@ -1,0 +1,15 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\MainWindow.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\App.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora_MarkupCompile.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora_MarkupCompile.lref
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\MainWindow.baml
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora.g.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Calculadora\obj\Debug\Calculadora.pdb
