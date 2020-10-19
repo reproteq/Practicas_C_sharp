@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\bin\Debug\netcoreapp3.1\ExpresionLambda.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\bin\Debug\netcoreapp3.1\ExpresionLambda.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\bin\Debug\netcoreapp3.1\ExpresionLambda.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\bin\Debug\netcoreapp3.1\ExpresionLambda.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\bin\Debug\netcoreapp3.1\ExpresionLambda.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\bin\Debug\netcoreapp3.1\ExpresionLambda.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\obj\Debug\netcoreapp3.1\ExpresionLambda.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\obj\Debug\netcoreapp3.1\ExpresionLambda.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\obj\Debug\netcoreapp3.1\ExpresionLambda.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\obj\Debug\netcoreapp3.1\ExpresionLambda.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\obj\Debug\netcoreapp3.1\ExpresionLambda.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\obj\Debug\netcoreapp3.1\ExpresionLambda.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionLambda\obj\Debug\netcoreapp3.1\ExpresionLambda.genruntimeconfig.cache

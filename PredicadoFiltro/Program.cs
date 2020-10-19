@@ -48,6 +48,17 @@ namespace PredicadoFiltro
             if (Existe) Console.WriteLine("Existe uan Alia en la lista de nombres");
             else Console.WriteLine("No hay ninguna Alia en la lista");
 
+            // 
+
+            Predicate<Persona> otroPredicado = new Predicate<Persona>(MayordeEdad);
+            bool Mayores = ListaPersona.Exists(otroPredicado);
+
+            if (Mayores) Console.WriteLine( "Hay mayores de edad en la lista");
+            else Console.WriteLine( "No hay mayores de edad en la lista");
+
+
+
+
         }
 
         
@@ -60,6 +71,15 @@ namespace PredicadoFiltro
             if (personas.Nom == "Alia") return true;
             else return false;
          }
+
+        static bool MayordeEdad(Persona persona)
+        {
+            if (persona.Edad <= 18) return true;
+            else return false;
+        }
+
+   
+
 
     }
 
