@@ -1,0 +1,13 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.deps.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.runtimeconfig.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.runtimeconfig.dev.json
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\bin\Debug\netcoreapp3.1\ExpresionesRegulares.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.AssemblyInfo.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ExpresionesRegulares\obj\Debug\netcoreapp3.1\ExpresionesRegulares.genruntimeconfig.cache
