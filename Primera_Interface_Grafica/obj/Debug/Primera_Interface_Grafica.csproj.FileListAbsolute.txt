@@ -1,0 +1,15 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\bin\Debug\Primera_Interface_Grafica.exe.config
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\bin\Debug\Primera_Interface_Grafica.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\bin\Debug\Primera_Interface_Grafica.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\MainWindow.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\App.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica_MarkupCompile.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica_MarkupCompile.lref
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\MainWindow.baml
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica.g.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica.Properties.Resources.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica.csproj.GenerateResource.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Primera_Interface_Grafica\obj\Debug\Primera_Interface_Grafica.pdb

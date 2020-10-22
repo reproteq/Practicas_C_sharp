@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ED859FAF-1901-4AF0-839C-2CBB287B60F8}</ProjectGuid>
+    <ProjectGuid>{B59BC59A-22AD-4EAF-8ADE-7422F654EEDD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Primera_Interface_Grafica</RootNamespace>
-    <AssemblyName>Primera_Interface_Grafica</AssemblyName>
+    <RootNamespace>INotifyPropertyChanged_Ejemplo</RootNamespace>
+    <AssemblyName>INotifyPropertyChanged_Ejemplo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

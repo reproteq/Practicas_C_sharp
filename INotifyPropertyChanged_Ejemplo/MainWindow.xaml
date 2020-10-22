@@ -1,0 +1,23 @@
+﻿<Window x:Class="INotifyPropertyChanged_Ejemplo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:INotifyPropertyChanged_Ejemplo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="TboxNom" HorizontalAlignment="Left" Height="23" Margin="205,55,0,0" TextWrapping="Wrap" Text="{Binding Path=Nom, Mode=TwoWay}" VerticalAlignment="Top" Width="268"/>
+        <TextBox x:Name="TboxApe" HorizontalAlignment="Left" Height="23" Margin="205,58,0,0" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Path=Ape, Mode=TwoWay}" VerticalAlignment="Top" Width="268"/>
+        <TextBox x:Name="TboxNomApe" HorizontalAlignment="Left" Height="23" Margin="205,42,0,0" Grid.Row="2" TextWrapping="Wrap" Text="{Binding Path=NomApe, Mode=TwoWay}" VerticalAlignment="Top" Width="268"/>
+        
+        <Label Content="Nom" HorizontalAlignment="Left" Margin="164,55,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ape" HorizontalAlignment="Left" Margin="160,55,0,0" VerticalAlignment="Top" Grid.Row="1" RenderTransformOrigin="2.505,1.947"/>
+        <Label Content="Nom Ape" HorizontalAlignment="Left" Margin="130,39,0,0" VerticalAlignment="Top" Grid.Row="2" RenderTransformOrigin="2.505,1.947"/>
+    </Grid>
+</Window>

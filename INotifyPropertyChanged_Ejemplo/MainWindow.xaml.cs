@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Primera_Interface_Grafica
+namespace INotifyPropertyChanged_Ejemplo
 {
     /// <summary>
     /// Lógica de interacción para MainWindow.xaml
@@ -23,9 +23,15 @@ namespace Primera_Interface_Grafica
         public MainWindow()
         {
             InitializeComponent();
-        }
-    }
 
+            miJuntaNom = new JuntaNom { Nom = "Alia", Ape = "Gregori Peinado" };
+
+            this.DataContext = miJuntaNom;
+        }
+
+
+       public JuntaNom miJuntaNom;
+    }
 
 
 

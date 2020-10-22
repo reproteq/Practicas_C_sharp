@@ -41,25 +41,17 @@ namespace Primera_Interface_Grafica {
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
-        #line 16 "..\..\MainWindow.xaml"
+        #line 11 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox TboxNom;
+        internal System.Windows.Controls.Slider mislider;
         
         #line default
         #line hidden
         
         
-        #line 17 "..\..\MainWindow.xaml"
+        #line 12 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox TboxApe;
-        
-        #line default
-        #line hidden
-        
-        
-        #line 18 "..\..\MainWindow.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox TboxNomApe;
+        internal System.Windows.Controls.TextBox tbox;
         
         #line default
         #line hidden
@@ -95,13 +87,10 @@ namespace Primera_Interface_Grafica {
             switch (connectionId)
             {
             case 1:
-            this.TboxNom = ((System.Windows.Controls.TextBox)(target));
+            this.mislider = ((System.Windows.Controls.Slider)(target));
             return;
             case 2:
-            this.TboxApe = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 3:
-            this.TboxNomApe = ((System.Windows.Controls.TextBox)(target));
+            this.tbox = ((System.Windows.Controls.TextBox)(target));
             return;
             }
             this._contentLoaded = true;
