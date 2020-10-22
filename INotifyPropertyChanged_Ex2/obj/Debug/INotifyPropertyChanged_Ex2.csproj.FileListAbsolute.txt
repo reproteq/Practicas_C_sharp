@@ -1,0 +1,15 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\App.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2_MarkupCompile.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\bin\Debug\INotifyPropertyChanged_Ex2.exe.config
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\bin\Debug\INotifyPropertyChanged_Ex2.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\bin\Debug\INotifyPropertyChanged_Ex2.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\MainWindow.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2_MarkupCompile.lref
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\MainWindow.baml
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2.g.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2.Properties.Resources.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2.csproj.GenerateResource.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\INotifyPropertyChanged_Ex2\obj\Debug\INotifyPropertyChanged_Ex2.pdb
