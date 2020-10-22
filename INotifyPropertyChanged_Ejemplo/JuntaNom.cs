@@ -46,7 +46,9 @@ namespace INotifyPropertyChanged_Ejemplo
         public string NomApe
         {
             get { return nomape = nom +" " + ape ; }
-            set { nomape = value; }
+            set { nomape = value;
+                
+            }
 
         }
 

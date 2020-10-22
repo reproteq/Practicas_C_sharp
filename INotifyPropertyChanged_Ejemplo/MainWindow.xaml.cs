@@ -24,7 +24,8 @@ namespace INotifyPropertyChanged_Ejemplo
         {
             InitializeComponent();
 
-            miJuntaNom = new JuntaNom { Nom = "Alia", Ape = "Gregori Peinado" };
+            //miJuntaNom = new JuntaNom { Nom = "Alia", Ape = "Gregori Peinado" };
+            miJuntaNom = new JuntaNom {};
 
             this.DataContext = miJuntaNom;
         }
