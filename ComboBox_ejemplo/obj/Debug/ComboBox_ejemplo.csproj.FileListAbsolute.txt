@@ -1,0 +1,15 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\bin\Debug\ComboBox_ejemplo.exe.config
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\bin\Debug\ComboBox_ejemplo.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\bin\Debug\ComboBox_ejemplo.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\MainWindow.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\App.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo_MarkupCompile.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo_MarkupCompile.lref
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\MainWindow.baml
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo.g.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo.Properties.Resources.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo.csproj.GenerateResource.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\ComboBox_ejemplo\obj\Debug\ComboBox_ejemplo.pdb
