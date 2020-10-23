@@ -1,0 +1,15 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\App.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox_MarkupCompile.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\bin\Debug\Listbox.exe.config
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\bin\Debug\Listbox.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\bin\Debug\Listbox.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\MainWindow.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox_MarkupCompile.lref
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\MainWindow.baml
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox.g.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox.Properties.Resources.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox.csproj.GenerateResource.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\Listbox\obj\Debug\Listbox.pdb

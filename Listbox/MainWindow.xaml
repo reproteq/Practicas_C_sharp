@@ -1,0 +1,46 @@
+﻿<Window x:Class="Listbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Listbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="374*"/>
+            <RowDefinition Height="104*"/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="ListaPoblaciones" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Width="550">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition  Width="*" ></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="{Binding Poblacion1 }"></TextBlock>
+                        <TextBlock Grid.Column="1" Text="{Binding Temp1 }"></TextBlock>
+                        <TextBlock Grid.Column="2" Text="{Binding Poblacion2 }"></TextBlock>
+                        <TextBlock Grid.Column="3" Text="{Binding Temp2 }"></TextBlock>
+                        <TextBlock Grid.Column="4" Text="{Binding TempDif }"></TextBlock>
+                        <ProgressBar Grid.Column="5" Minimum="0"  Value="{Binding TempDif}"></ProgressBar>
+
+                    </Grid>
+
+                </DataTemplate>
+
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="181,45,0,0" Grid.Row="2" VerticalAlignment="Top" Width="249" Height="53" Click="Button_Click"/>
+        <Label Content="Ciudad / Temp" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="112"/>
+        <Label Content="Ciudad / Temp" HorizontalAlignment="Left" Margin="196,10,0,0" VerticalAlignment="Top" Width="112"/>
+        <Label Content="TempDiferencia                   Grafico" HorizontalAlignment="Left" Margin="358,10,0,0" VerticalAlignment="Top" Width="224"/>
+
+    </Grid>
+</Window>
