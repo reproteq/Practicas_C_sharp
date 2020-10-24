@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Configuration;
 using System.Data.SqlClient;
+using System.Data;
 
 namespace WPF_SQL_Ejemplo
 {
@@ -25,11 +26,14 @@ namespace WPF_SQL_Ejemplo
         public MainWindow()
         {
             InitializeComponent();
-            // conection MiDbSqlConnectionString1
-            string miConexion = ConfigurationManager.ConnectionStrings["MiDbSqlConnectionString1"].ConnectionString;
+
+            string con = "WPF_SQL_Ejemplo.Properties.Settings.MiDbSqlConnectionString";
+
+            string miConexion = ConfigurationManager.ConnectionStrings[con].ConnectionString;
 
             miConexionSql = new SqlConnection(miConexion);
-        
+
+            MuestraClientes();
         
         }
 
@@ -37,7 +41,23 @@ namespace WPF_SQL_Ejemplo
 
         private void MuestraClientes()
         {
-            string consulta = "SELECT * FROM CLIENTE";
+            string consulta = "SELECT * FROM Cliente";
+
+            SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(consulta, miConexionSql);
+
+            using (miAdaptadorSql)
+            {
+                DataTable clientesTabla = new DataTable();
+                miAdaptadorSql.Fill(clientesTabla);
+
+                listaClientes.DisplayMemberPath = "nombre";
+                listaClientes.SelectedValuePath = "Id";
+                listaClientes.ItemsSource = clientesTabla.DefaultView;
+
+            }
+
+
+
         }
 
 

@@ -80,6 +80,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MiDbSqlDataSet1.xsd</DependentUpon>
     </Compile>
+    <Compile Include="MiDbSqlDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MiDbSqlDataSet2.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -118,6 +123,17 @@
     </None>
     <None Include="MiDbSqlDataSet1.xss">
       <DependentUpon>MiDbSqlDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MiDbSqlDataSet2.xsc">
+      <DependentUpon>MiDbSqlDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="MiDbSqlDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MiDbSqlDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MiDbSqlDataSet2.xss">
+      <DependentUpon>MiDbSqlDataSet2.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

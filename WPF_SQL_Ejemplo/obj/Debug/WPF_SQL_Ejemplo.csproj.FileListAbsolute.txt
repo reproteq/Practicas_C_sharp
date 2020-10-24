@@ -1,0 +1,15 @@
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\MainWindow.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\App.g.cs
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo_MarkupCompile.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo_MarkupCompile.lref
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\bin\Debug\WPF_SQL_Ejemplo.exe.config
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\bin\Debug\WPF_SQL_Ejemplo.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\bin\Debug\WPF_SQL_Ejemplo.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\MainWindow.baml
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo.g.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo.Properties.Resources.resources
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo.csproj.GenerateResource.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo.exe
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WPF_SQL_Ejemplo\obj\Debug\WPF_SQL_Ejemplo.pdb
