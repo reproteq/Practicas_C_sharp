@@ -17,6 +17,7 @@
         <ListBox  Name="listaArticulos" HorizontalAlignment="Left" Height="321" Margin="354,48,0,0" VerticalAlignment="Top" Width="144"/>
         <ListBox  x:Name="listaPedidosTodos" HorizontalAlignment="Left" Height="321" Margin="547,48,0,0" VerticalAlignment="Top" Width="218"/>
         <Label Content="TODOS" HorizontalAlignment="Left" Margin="581,10,0,0" VerticalAlignment="Top" Width="144" FontSize="22" FontWeight="Bold"/>
+        <Button Content="Borrar" HorizontalAlignment="Left" Margin="792,48,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
 
     </Grid>
 </Window>

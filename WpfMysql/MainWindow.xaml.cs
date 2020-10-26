@@ -29,7 +29,8 @@ namespace WpfMysql
         public MainWindow()
         {
             InitializeComponent();
- 
+
+            
             // MysqlConString = new MySqlConnection("server=serverip;user id=userdbIP;password=Pass;persistsecurityinfo=True;database=DataBaseTest");     
             try
             {
@@ -123,7 +124,7 @@ namespace WpfMysql
         // muestra todos los pedidos existentes
         private void MuestralistaPedidosTodos()
         {
-            string Query = "SELECT CONCAT (cCliente, ' ' , fechaPedido, ' ' ,formaPago ) AS ConcatenatedString FROM Pedido";
+            string Query = "SELECT *, CONCAT (cCliente, ' ' , fechaPedido, ' ' ,formaPago ) AS ConcatenatedString FROM Pedido";
             MySqlDataAdapter miAdaptadorSql = new MySqlDataAdapter(Query, MysqlConString);
             using (miAdaptadorSql)
             {
@@ -133,6 +134,20 @@ namespace WpfMysql
                 listaPedidosTodos.SelectedValuePath = "Id";
                 listaPedidosTodos.ItemsSource = pedidosTablaTodos.DefaultView;
             }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Borrar"+ listaPedidosTodos.SelectedValue.ToString());
+            string Query = "DELETE FROM Pedido WHERE Id=@PedidoId";
+            MySqlCommand sqlComando = new MySqlCommand(Query, MysqlConString);
+          //  MysqlConString.Open();
+            sqlComando.Parameters.AddWithValue("@PedidoId",listaPedidosTodos.SelectedValue);
+            sqlComando.ExecuteNonQuery();
+            MuestralistaPedidosTodos();// volvemos a llamar a la funcion para refrescar los resultados
+            MessageBox.Show("Se borro correctamente el registro de la base de datos!");
+            MysqlConString.Close();
+
         }
 
 
