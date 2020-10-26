@@ -30,7 +30,7 @@ namespace WpfMysql
         {
             InitializeComponent();
 
-           
+ 
             // MysqlConString = new MySqlConnection("server=serverip;user id=userdbIP;password=Pass;persistsecurityinfo=True;database=DataBaseTest");     
             try
             {

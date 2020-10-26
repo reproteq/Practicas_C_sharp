@@ -26,8 +26,6 @@ namespace WpfMysql.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("server=51.178.27.73;user id=170.253.61.152;password=Pruo21niZ;persistsecurityinfo" +
-            "=True;database=DataBaseTest")]
         public string DataBaseTestConnectionString {
             get {
                 return ((string)(this["DataBaseTestConnectionString"]));
