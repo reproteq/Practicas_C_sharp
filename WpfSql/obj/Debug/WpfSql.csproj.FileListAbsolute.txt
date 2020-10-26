@@ -12,3 +12,7 @@ C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\obj\Debug\WpfSql.csproj.G
 C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\obj\Debug\WpfSql.csproj.CoreCompileInputs.cache
 C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\obj\Debug\WpfSql.exe
 C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\obj\Debug\WpfSql.pdb
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\obj\Debug\WpfSql.csprojAssemblyReference.cache
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\bin\Debug\MySQL.Utility.dll
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\obj\Debug\WpfSql.csproj.CopyComplete
+C:\Users\w10\Documents\GitHub\Practicas_C_sharp\WpfSql\bin\Debug\Renci.SshNet.dll

@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySQL.Utility">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL for Visual Studio 1.2.9\Dependencies\MySQL.Utility.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />

@@ -63,6 +63,38 @@ namespace WpfSql
         }
 
 
+        private void MuestraPedidos()
+        {
+            string consulta = "SELECT * FROM PEDIDO P INNER JOIN CLIENTE C ON C.ID=P.cCliente" + " WHERE C.ID=@ClienteId";
+                       
 
+            //  consulta con parametros 
+            SqlCommand sqlComando = new SqlCommand(consulta, miConexionSql);
+
+            SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(sqlComando);
+            using (miAdaptadorSql)
+            {
+
+                sqlComando.Parameters.AddWithValue("@ClienteId", listaClientes.SelectedValue);
+                DataTable pedidosTabla = new DataTable();
+                miAdaptadorSql.Fill(pedidosTabla);
+
+                listaPedidos.DisplayMemberPath = "fechaPedido";
+                listaPedidos.SelectedValuePath = "Id";
+                listaPedidos.ItemsSource = pedidosTabla.DefaultView;
+
+            }
+
+
+
+        }
+
+
+
+        private void listaClientes_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            MuestraPedidos();
+            //MessageBox.Show("Lista clientes");
+        }
     }
 }
